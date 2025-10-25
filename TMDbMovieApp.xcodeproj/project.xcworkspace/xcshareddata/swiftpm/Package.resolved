@@ -1,0 +1,33 @@
+{
+  "originHash" : "c9416dccd9adcd6537d3e3fad663bf74e77e1d4743362cde890b3923ddd098ac",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "loaderui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/LoaderUI",
+      "state" : {
+        "revision" : "1b8ad2dfb06080ffcc51a74da0aeba56a0f7b877",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "swiftmessages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftKickMobile/SwiftMessages",
+      "state" : {
+        "revision" : "c0ff6c65bfc00e6a707957cb7069988c5cde2a30",
+        "version" : "10.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}

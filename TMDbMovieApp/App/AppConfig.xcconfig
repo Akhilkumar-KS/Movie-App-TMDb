@@ -1,0 +1,12 @@
+//
+//  AppConfig.xcconfig
+//  TMDbMovieApp
+//
+//  Created by akhilkumar on 25/10/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+ROOT_URL = https:/$()/api.themoviedb.org/3/
+API_KEY = deaae2254e877f4fe922ce0d3531adef

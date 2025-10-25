@@ -1,0 +1,57 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ / 10" : {
+
+    },
+    "%lld" : {
+
+    },
+    "%lld min" : {
+
+    },
+    "Back" : {
+
+    },
+    "Cast" : {
+
+    },
+    "Favourites" : {
+
+    },
+    "Genres: %@" : {
+
+    },
+    "Home" : {
+
+    },
+    "Movie Details" : {
+
+    },
+    "No Data Available" : {
+
+    },
+    "No Data Found" : {
+
+    },
+    "No favourites yet!" : {
+
+    },
+    "No Poster" : {
+
+    },
+    "Plot" : {
+
+    },
+    "Rating %@ out of 10" : {
+
+    },
+    "Search" : {
+
+    },
+    "Search..." : {
+
+    }
+  },
+  "version" : "1.0"
+}
